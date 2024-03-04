@@ -1,4 +1,4 @@
-
+#List Programs
 #1 Write a Python program to sum all the items in a list.
 l=[1,2,3]
 x=0
@@ -115,9 +115,7 @@ n=3
 print(list_word(l,n))
 
 
-Dictionary Programs:
-
-Strings:
+#Strings:
 #1. Write a Python program to calculate the length of a string.
 n=input("enter the string ")
 print(len(n))
